@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title> Bilingual Story </title>
+	<style>
+		body {
+			background: rgb(253,250,241);
+		}
+		#home-page {
+			position: absolute;
+			top: 10px;
+			right: 27%;
+		}
+		#list {
+			position: absolute;
+			top: 10px;
+			right: 21%;
+		}
+		#style {
+			position: absolute;
+			top: 10px;
+			right: 16%;
+		}
+		#register {
+			position: absolute;
+			top: 10px;
+			right: 11%;
+		}
+		#login {
+			position: absolute;
+			top: 10px;
+			right: 5%;
+		}
+	</style>
+</head>
+<body>
+	<div><h1>TRUYỆN SONG NGỮ</h1></div>
+	<div id="home-page"><h3>Trang chủ</h3></div>
+	<div id="list"><h3>Danh sách</h3></div>
+	<div id="style"><h3>Thể loại</h3></div>
+	<div id="register"><h3>Đăng ký</h3></div>
+	<div id="login"><h3>Đăng nhập</h3></div>
